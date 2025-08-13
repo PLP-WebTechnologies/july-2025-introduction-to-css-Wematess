@@ -1,0 +1,30 @@
+body{
+    background : Green 
+
+}
+
+h1{
+    font-size: 80px;
+    color: red
+}
+
+
+p{
+    font-size: 50px;
+    color: rgb(237, 224, 224);
+}
+
+ol{
+    font-size: 35px;
+    color: black;
+}
+
+ul{
+    font-size: 35px;
+    color: black;
+}
+
+div{
+    padding: 20px;
+    margin: 15px;
+}
